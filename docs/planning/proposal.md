@@ -15,7 +15,7 @@ I will also use an HC-SR04 Ultrasonic Sonar Distance Sensor from Adafruit to che
 
 What hardware will you require? Provide a conceptual circuit diagram and/or block diagram to help the reviewers understand your proposal. Be sure to introduce and discuss your figures in the text.
 
-I will require the parallax membrane keypad, 2 LED light bars, the LCD screen, the non-launchpad MSP430FR2355, the MSP430FR2355 launchpad, and the HC-SR04 sonar distance sensor
+I will require the parallax membrane keypad, 2 LED light bars, the LCD screen, the non-launchpad MSP430FR2355, the MSP430FR2355 launchpad, and the HC-SR04 sonar distance sensor.
 
 ## Software overview
 
@@ -62,7 +62,7 @@ Desired Prescaler level:
 
 **The project objective is**
 
-{The objective of this project is to provide an easy to use interface for user's to see how NFAs and regular expressions work. This project could be used as a teaching aid in a CS theory class or as a string tester for a more experienced student.}
+The objective of this project is to provide an easy to use interface for user's to see how NFAs and regular expressions work. This project could be used as a teaching aid in a CS theory class or as a string tester for a more experienced student.
 
 **The new hardware or software modules are:**
 1. The new hardware module is the HC-SR04 sonar sensor 
