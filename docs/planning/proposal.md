@@ -17,7 +17,7 @@ What hardware will you require? Provide a conceptual circuit diagram and/or bloc
 
 I will require the parallax membrane keypad, 2 LED light bars, the LCD screen, the non-launchpad MSP430FR2355, the MSP430FR2355 launchpad, and the HC-SR04 sonar distance sensor.
 
-![Circuit Diagram]()
+![Circuit Diagram](https://github.com/msu-eele-465/final-project-Hurlicane24/blob/main/docs/planning/Circuit_Diagram_Proposal.jpg)
 
 ## Software overview
 
