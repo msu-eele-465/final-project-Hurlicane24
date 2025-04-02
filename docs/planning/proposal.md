@@ -17,6 +17,8 @@ What hardware will you require? Provide a conceptual circuit diagram and/or bloc
 
 I will require the parallax membrane keypad, 2 LED light bars, the LCD screen, the non-launchpad MSP430FR2355, the MSP430FR2355 launchpad, and the HC-SR04 sonar distance sensor.
 
+![Circuit Diagram]()
+
 ## Software overview
 
 Discuss, at a high level, a concept of how your code will work. Include a *high-level* flowchart. This is a high-level concept that should concisely communicate the project's concept.
