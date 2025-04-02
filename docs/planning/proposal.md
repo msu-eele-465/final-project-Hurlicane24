@@ -32,6 +32,8 @@ The code at a very high level will work something like this:
 6. Display accepted or rejected on the LCD screen.
 7. For the entire runtime of the program past the point in which the user selects which NFA they want to try, poll the HC-SR04 sensor and display the equivalent expression if the user's hand gets within a particular range.
 
+8. ![Flow Diagram](https://github.com/msu-eele-465/final-project-Hurlicane24/blob/main/docs/planning/Flow_Chart_Proposal.drawio.png)
+
 ## Testing Procedure
 
 Briefly describe how you will test and verify that your project is a success. Think about how you will *demo* the final project. If you need extra equipment for the demo, be sure that you can either bring the equipment or convincingly simulate it. For example, if you want to build a system that uses CAN bus to interface with your car, you won't be able to bring your car into Cobleigh for the demo...
