@@ -68,15 +68,13 @@ The objective of this project is to provide an easy to use interface for user's 
 1. The new hardware module is the HC-SR04 sonar sensor 
 
 
-The Master will be responsible for:
+**The Master will be responsible for:**
 
-{Reading the and processing the inputs.}
+Reading the and processing the inputs.
 
-The Slave(s) will be responsible for:
+**The Slave(s) will be responsible for:**
 
-{Deciding what to do based on those inputs, like what to display on the LCD screen, LED bars, etc.}
-
-
+Deciding what to do based on those inputs, like what to display on the LCD screen, LED bars, etc.
 
 ### Argument for Desired Prescaler
 
